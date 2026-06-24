@@ -27,6 +27,22 @@ YouTube Trending Videos Dataset
 ### Source
 Kaggle
 
+### Dataset
+
+The dataset used in this project is publicly available on Kaggle.
+
+Dataset Link:
+https://www.kaggle.com/datasets/kunxue/cavideos
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+Steps to use:
+
+1. Visit the Kaggle dataset page.
+2. Download the dataset.
+3. Extract the files.
+4. Place the CSV file inside the `dataset/` folder.
+
 ### Dataset Description
 
 The dataset contains information about trending YouTube videos including:
@@ -44,22 +60,6 @@ The dataset contains information about trending YouTube videos including:
 - Video Duration
 
 This dataset helps analyze viewer engagement and trending behavior on YouTube.
-
-### Dataset
-
-The dataset used in this project is publicly available on Kaggle.
-
-Dataset Link:
-https://www.kaggle.com/datasets/kunxue/cavideos
-
-Due to GitHub file size limitations, the dataset is not included in this repository.
-
-Steps to use:
-
-1. Visit the Kaggle dataset page.
-2. Download the dataset.
-3. Extract the files.
-4. Place the CSV file inside the `dataset/` folder.
 
 ---
 
